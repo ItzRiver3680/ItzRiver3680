@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ItzRiver3680
+- 👀 I’m interested in website development and graphic design
+- 🌱 I’m currently learning html css and js
